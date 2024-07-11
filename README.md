@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shivam Mangal</h1>
-<h3 align="center">Bca student, majoring in Computer Science. I am interested in exploring the fields of Software Engineering, Web Development</h3>
+<h3 align="center">MCA student, majoring in Computer Science. I am interested in exploring the fields of Software Engineering, Web Development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
